@@ -10,12 +10,12 @@
 1. Sign up on Google IDX.
 2. Create a new workspace using this repository (**Do NOT change the repo name**):
 
-**Repository URL:** https://github.com/puneetbhatigujjar/idx-vps
+**Repository URL:** https://github.com/puneetbhatigujjar/MY-UP-VPS
 
 ### ▶️ VM Setup Command
 
 ```bash
-bash <(curl -fsSL https://raw.githubusercontent.com/puneetbhatigujjar/idx-vps/main/vps.sh)
+bash <(curl -fsSL https://raw.githubusercontent.com/puneetbhatigujjar/MY-UP-VPS/main/vps.sh)
 ```
 
 ---
